@@ -6,7 +6,7 @@ How Do I Contact Sling TV Customer Service by Phone?
    :caption: Contents:
 Need help from Sling TV? Here's how to find the Sling TV customer service phone number in the USA and get support quickly and effectively.
  
-.. image:: https://expressvpn-help.readthedocs.io/en/latest/_images/service.jpg
+.. image:: service.jpg
    :alt: Sling TV
    :width: 400px
    :align: center
